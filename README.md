@@ -3,8 +3,8 @@
 <details><summary><strong>Visit My Other Projects!</strong></summary> 
 <br>
 
-1. [NFL Webscrapes](https://github.com/logan-lauton/nfl_webscrape)
-2. [Capsicum Research](https://github.com/logan-lauton/Capsicum-Research)
+1. [Capsicum Research](https://github.com/logan-lauton/Capsicum-Research)
+2. [NFL Webscrapes](https://github.com/logan-lauton/nfl_webscrape)
 
 </details>
 
