@@ -4,7 +4,8 @@
 <br>
 
 1. [Capsicum Research](https://github.com/logan-lauton/Capsicum-Research)
-2. [NFL Webscrapes](https://github.com/logan-lauton/nfl_webscrape)
+2. [Mentacare Patient Management System](https://github.com/logan-lauton/Mentcare-Patient-Management-System)
+3. [NFL Webscrapes](https://github.com/logan-lauton/nfl_webscrape)
 
 </details>
 
