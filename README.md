@@ -26,6 +26,7 @@ This repository hold the code used to scrape numerous sites to formulate multipl
 - [Box Score Data](https://github.com/logan-lauton/nba_webscrape/blob/main/NBA%20Player%20Data%20Box%20Score%20Web%20Scrape.ipynb)
 - [Player Data](https://github.com/logan-lauton/nba_webscrape/blob/main/NBA%20Player%20Data%20Web%20Scrape.ipynb)
 - [Cleaning Player Data](https://github.com/logan-lauton/nba_webscrape/blob/main/NBA%20Player%20Data%20Cleaning.ipynb)
+- [Injury Data](https://github.com/logan-lauton/nba_webscrape/blob/main/NBA%20Player%20Injury%20Data%20Web%20Scrape.ipynb)
 - [Player Salary](https://github.com/logan-lauton/nba_webscrape/blob/main/NBA%20Salary%20Web%20Scrape.ipynb)
 - [Team Pay Roll](https://github.com/logan-lauton/nba_webscrape/blob/main/NBA%20Team%20Payroll%20Web%20Scrape.ipynb)
 - [Team Data Cleaning](https://github.com/logan-lauton/nba_webscrape/blob/main/data-cleaning-helper-box-score-dataset.ipynb)
